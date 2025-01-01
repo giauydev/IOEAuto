@@ -9,3 +9,5 @@ This project is for educational purposes only. Using this tool to cheat in compe
 # SCREENSHOT
 ![image](https://github.com/user-attachments/assets/ac9289dc-39b5-4e42-a8ec-39274f368c09)
 ![image](https://github.com/user-attachments/assets/e33d33a1-c65e-4d20-8ba8-6808b6eeaac0)
+# COPYRIGHT
+(C) UGENX STUDIO$. 2024-2025 All Rights Reserved.
