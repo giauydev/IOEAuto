@@ -1,3 +1,4 @@
+IOEAuto 2 dừng hoạt động, vui lòng đợi bản cập nhật tiếp theo.
 IOEAuto is a tool designed to automate interactions with the Internet Olympiad of English (IOE) platform.
 
 ⚠️ Disclaimer
